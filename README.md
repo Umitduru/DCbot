@@ -5,7 +5,7 @@ Telegramda Eğlence Amaçlı Grublarınızda DC Oyun Botuyum
 
 # Heroku'da Clonlamak
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Umitduru/do-ruluk-cesaret)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Umitduru/DCbot)
 
 #
 
